@@ -42,15 +42,15 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "😛",  // Shows when they go past 5000%
-        high: "🙄",              // Shows when they go past 1000%
-        normal: "not at all😒"                           // Shows when they go past 100%
+        extreme: "a whole bunch😛",  // Shows when they go past 5000%
+        high: "maybe a little🙄",              // Shows when they go past 1000%
+        normal: "ig i love you"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! I'm the luckiest person in the world! 🎉💝💖💝💓",
-        message: "Now come get your gift, a big warm hug and a huge kiss!",
+        title: "Good its abt time👎😣",
+        message: "Now come get your gift, its me im the gift 😏!",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
